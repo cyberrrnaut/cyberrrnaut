@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Soumyendu Das</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="mid" alt="coding" width="400" src="https://media.tenor.com/awdwRkbJzCgAAAAC/goku.gif">
+<img align="center" alt="coding" width="400" src="https://media.tenor.com/awdwRkbJzCgAAAAC/goku.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberrrnaut&label=Profile%20views&color=0e75b6&style=flat" alt="cyberrrnaut" /> </p>
 
